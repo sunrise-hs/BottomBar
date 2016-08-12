@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_R"
+        android:title="Recent"
+        android:icon="@drawable/ic_update_white_24dp"></item>
+    <item
+        android:id="@+id/item_L"
+        android:title="Location"
+        android:icon="@drawable/ic_location_on_white_24dp"></item>
+    <item
+        android:id="@+id/item_f"
+        android:title="favorite"
+        android:icon="@drawable/ic_favorite_white_24dp"></item>
+
+</menu>
